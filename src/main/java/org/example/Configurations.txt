@@ -1,0 +1,1 @@
+{"id":0,"totalTickets":10,"ticketReleaseRate":1000,"customerRetrievalRate":500,"maxTicketCapacity":10,"remainsToBeReleasedVendor":10}
